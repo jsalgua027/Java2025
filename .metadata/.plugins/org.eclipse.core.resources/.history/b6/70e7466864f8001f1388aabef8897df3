@@ -1,0 +1,16 @@
+
+public class UsoVariables {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		byte edad; //declarion de variables
+		
+		edad=17; //inicializacion de varibles
+		
+		System.out.println(edad);
+		
+		
+	}
+
+}
