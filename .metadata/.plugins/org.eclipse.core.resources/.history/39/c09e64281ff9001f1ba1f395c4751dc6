@@ -4,7 +4,7 @@ public class UsoConstantes {
 	
 	//constante de clase
 	
-	private static final double NUMEROCON=3.1416;  //en mayuscula
+	private static final double PI=3.1416;  //en mayuscula
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -20,8 +20,6 @@ public class UsoConstantes {
 		byte numero=1;
 		
 			System.out.println(((Object)numero).getClass().getSimpleName());
-		
-			
 		
 	}
 
