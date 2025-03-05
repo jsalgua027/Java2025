@@ -1,0 +1,16 @@
+
+public class UsoMath {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		//hay que hacer casting pq si miras la ApI de java el devuleve un double y quiero un entero.
+		//el método recibe un double pero java hace la conversión implicita. 
+			
+		
+		int raiz=(int) Math.sqrt(9);
+		System.out.println(raiz);
+
+	}
+
+}
