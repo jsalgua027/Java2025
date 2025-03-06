@@ -55,6 +55,11 @@ public class EJ08OperacionesAlgebraicas {
 		 System.out.println("c=71.3 ahora c vale-->"+c);
 		
 		 //F
+		 
+		 System.out.println("el valor de i es -->"+i);
+		 System.out.println("el valor de i++ es -->"+i++);
+		 System.out.println("el valor de i es -->"+i);
+		 System.out.println("el valor de ++i es -->"+ ++i);
 		
 		
 	
