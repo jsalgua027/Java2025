@@ -1,4 +1,4 @@
-package Tema2Y3;
+package Tema2Y3EstructurasControl;
 
 public class Ej10 {
 
