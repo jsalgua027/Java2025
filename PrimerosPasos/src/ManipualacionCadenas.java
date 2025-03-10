@@ -50,6 +50,7 @@ public class ManipualacionCadenas {
 		 System.out.println("son iguales?--->"+ alumno1.equalsIgnoreCase(alumno3)); // ignora las mayusculas
 		 
 		 
+		
 		 
 
 	}
