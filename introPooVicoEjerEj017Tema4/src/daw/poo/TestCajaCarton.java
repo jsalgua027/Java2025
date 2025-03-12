@@ -22,7 +22,17 @@ public class TestCajaCarton {
 		 System.out.println("El largo de la caja chica es--->"+ cajaChica.getLargo()+"mm");
 		 System.out.println("El peso de la caja chica es--->"+ cajaChica.getPeso()+"g");
 		  
-
+  //ejercicio 11 Relación B
+		 cajaChica.setPeso(1200);
+		 
+		 System.out.println("el peso de la caja chica es--->"+cajaChica.getPeso());
+		 
+		/**
+		 *  //asi si es público el atributo
+		 cajaChica.peso=500;
+		 */
+		 
+		 
 	}
 
 }

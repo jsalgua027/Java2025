@@ -16,6 +16,22 @@ public class MisVehiculos {
 		System.out.println("Su precio  es----> "+miCacharro.getTarifa());
 		
 		
+		System.out.println("-----------Alias");
+		
+		Vehiculo miCachVehiculoAlias;
+		
+		miCachVehiculoAlias=miCacharro;
+		
+		System.out.println(miCachVehiculoAlias.toString());
+		
+		miCachVehiculoAlias.setTarifa(25000);
+		
+		System.out.println("vemos por consola miCaharro habiendo modificado la tarifa a traves del alias");
+		System.out.println(miCacharro.toString());
+		
+		
+		
+		
 		
 		
 		

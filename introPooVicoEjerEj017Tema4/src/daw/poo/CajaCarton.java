@@ -36,16 +36,33 @@ public void setLargo(double largo) {
 public double getPeso() {
 	return peso;
 }
-public void setPeso(double peso) {
+
+
+
+/*
+ * public void setPeso(double peso) {
 	this.peso = peso;
 }
 
+ * 
+ * */
 public void abrir() {
 	
 }
 
 public void cerrar() {
 	
+}
+
+//ejercicio 9 de la Relación B
+
+public void setPeso(double peso) {
+	if(peso<0||peso>1000) {
+		this.peso=0;
+		System.out.println("El peso marcado como argumento no es valido"); 
+	}else {
+		this.peso=peso;
+	}
 }
 
 
