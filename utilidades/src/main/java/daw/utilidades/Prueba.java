@@ -4,7 +4,7 @@ public class Prueba {
 
 	public static void main(String[] args) {
 
-		Aleatorios prueba= new Aleatorios();
+		Aleatorios prueba= new Aleatorios(); // al no ser static los métodos tengo que instanciar el objeto
 		
 		int res=prueba.enteroAleatorio();
 		

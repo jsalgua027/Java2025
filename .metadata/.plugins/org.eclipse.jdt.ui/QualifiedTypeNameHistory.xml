@@ -12,5 +12,9 @@
     <fullyQualifiedTypeName name="java.util.concurrent.CancellationException"/>
     <fullyQualifiedTypeName name="daw.poo.TestCajaCarton"/>
     <fullyQualifiedTypeName name="daw.poo.CajaCarton"/>
+    <fullyQualifiedTypeName name="java.lang.VerifyError"/>
     <fullyQualifiedTypeName name="daw.vehiculos.Vehiculo"/>
+    <fullyQualifiedTypeName name="java.util.Random"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="daw.utilidades.Aleatorios"/>
 </qualifiedTypeNameHistroy>
