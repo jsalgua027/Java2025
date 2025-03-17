@@ -17,4 +17,7 @@
     <fullyQualifiedTypeName name="java.util.Random"/>
     <fullyQualifiedTypeName name="java.lang.Integer"/>
     <fullyQualifiedTypeName name="daw.utilidades.Aleatorios"/>
+    <fullyQualifiedTypeName name="numerosComplejos.numerosComplejos.Complejo"/>
+    <fullyQualifiedTypeName name="java.lang.Comparable"/>
+    <fullyQualifiedTypeName name="numerosComplejos2.Complejo"/>
 </qualifiedTypeNameHistroy>

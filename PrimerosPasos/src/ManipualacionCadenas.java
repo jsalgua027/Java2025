@@ -49,7 +49,13 @@ public class ManipualacionCadenas {
 		 System.out.println("son iguales?--->"+ alumno1.equals(alumno3));// ojo con las mayusculas
 		 System.out.println("son iguales?--->"+ alumno1.equalsIgnoreCase(alumno3)); // ignora las mayusculas
 		 
+		 // los objetos de tipo String son inmutables  (OJO  stack/heap)
 		 
+		 String saludo="Hola";  // objeto 1, saludo apunta a "Hola";  saludo-->stack  "Hola"-->heap.
+		 
+		 saludo=saludo+" mundo cruel"; // realmente este es un segundo objeto , saludo ahora en el heap apunta a "Hola mundo curuel"
+		 
+		 System.out.println(saludo);
 		
 		 
 
