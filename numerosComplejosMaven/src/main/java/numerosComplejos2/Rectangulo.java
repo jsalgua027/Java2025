@@ -56,7 +56,8 @@ public class Rectangulo {
 		this.supDer = supDer;
 	}
 
-	public Rectangulo desplazamiento(int ejeX1,int ejeX2,int ejeY1,int ejeY2 ){
+	/*
+	 * public Rectangulo desplazamiento(int ejeX1,int ejeX2,int ejeY1,int ejeY2 ){
 		Complejo aux1=new Complejo(ejeX1, ejeY1);
 		Complejo aux2=new Complejo(ejeX2, ejeY2);
 		
@@ -64,6 +65,8 @@ public class Rectangulo {
 		
 	}
 	
+	 * 
+	 * */
 	
 	
 	
