@@ -7,7 +7,6 @@
     <fullyQualifiedTypeName name="java.lang.Long"/>
     <fullyQualifiedTypeName name="java.nio.channels.ScatteringByteChannel"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="java.awt.Container"/>
     <fullyQualifiedTypeName name="java.util.concurrent.CancellationException"/>
     <fullyQualifiedTypeName name="daw.poo.TestCajaCarton"/>
@@ -20,4 +19,6 @@
     <fullyQualifiedTypeName name="numerosComplejos.numerosComplejos.Complejo"/>
     <fullyQualifiedTypeName name="java.lang.Comparable"/>
     <fullyQualifiedTypeName name="numerosComplejos2.Complejo"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="javax.annotation.processing.SupportedSourceVersion"/>
 </qualifiedTypeNameHistroy>
