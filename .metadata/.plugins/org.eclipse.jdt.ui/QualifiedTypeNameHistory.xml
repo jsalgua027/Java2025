@@ -18,7 +18,9 @@
     <fullyQualifiedTypeName name="daw.utilidades.Aleatorios"/>
     <fullyQualifiedTypeName name="numerosComplejos.numerosComplejos.Complejo"/>
     <fullyQualifiedTypeName name="java.lang.Comparable"/>
-    <fullyQualifiedTypeName name="numerosComplejos2.Complejo"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="javax.annotation.processing.SupportedSourceVersion"/>
+    <fullyQualifiedTypeName name="java.lang.IllegalArgumentException"/>
+    <fullyQualifiedTypeName name="numerosComplejos2.PuntoGeometrico"/>
+    <fullyQualifiedTypeName name="numerosComplejos2.Complejo"/>
 </qualifiedTypeNameHistroy>
