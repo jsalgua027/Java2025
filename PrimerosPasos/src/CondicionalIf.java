@@ -35,7 +35,12 @@ public class CondicionalIf {
 		else {
 			System.out.println("Dónde vas con esa edad");
 		}
+	//	entrada.close(); //cierro y libero los recursos; OJO ya no puedo usarlo otra vez pq lo he cerrado; OJO cerramos el System.in y no lo podemos usar otra vez. Podemos hacer otras entradas como una lectura de un fichero
+		
+
+				
 		
 	}
+	
 
 }
