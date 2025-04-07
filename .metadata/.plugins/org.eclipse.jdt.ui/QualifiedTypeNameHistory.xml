@@ -25,4 +25,5 @@
     <fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
     <fullyQualifiedTypeName name="java.lang.Double"/>
     <fullyQualifiedTypeName name="java.util.Random"/>
+    <fullyQualifiedTypeName name="java.lang.runtime.SwitchBootstraps"/>
 </qualifiedTypeNameHistroy>
